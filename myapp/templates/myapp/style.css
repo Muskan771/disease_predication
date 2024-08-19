@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("background.jpg");
+    background-image:url("background.jpg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -161,7 +161,7 @@ ul li a:hover{
 
 .content span{
     color: #ff7200;
-    font-size: 65px
+    font-size: 65px;
 }
 
 .form{
